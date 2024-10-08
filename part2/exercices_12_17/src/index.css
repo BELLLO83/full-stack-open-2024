@@ -1,0 +1,11 @@
+.success-message{
+    background-color: #dfdada;
+    border: 5px solid rgba(0,127, 0,0.821);
+    border-radius:7 px;
+    padding:12px;
+    color:#1d6a10;
+    font-weight:bold;
+    font-size:larger;
+    margin-top:11px;
+
+}
